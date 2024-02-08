@@ -1,0 +1,25 @@
+h1{
+    position: absolute;
+    width: 320px;
+    height: 55px;
+    top: 65px;
+    left: 158px;
+    border: 1px;
+
+    color: #fff;
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+#left{
+    color: #B9971E;
+}
+
+#right{
+    color: #8872E7;
+}
