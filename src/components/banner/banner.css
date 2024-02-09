@@ -1,17 +1,27 @@
+
 .container{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .description h1{
-    width: 771px;
-    height: 197px;
-    margin-top: 246px;
-    margin-left:158px;
-    font-size: 85px;
+    max-width: 48.188rem;
+    font-family: Ubuntu;
+    font-size: 5.313rem;
     font-weight: 700;
-    line-height: 98px;
+    line-height: 6.125rem;
     letter-spacing: 0em;
     text-align: left;
+    color: #fff;
 
+}
 
+.description h2{
+    max-width: 39.438rem;
+    color: #B9971E;
+}
+
+.pc{
+    max-width: 43.75rem;
 }

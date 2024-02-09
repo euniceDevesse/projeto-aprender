@@ -6,7 +6,7 @@ import Banner from "./components/banner/banner"
 
 function App() {
   return (
-      <div className="container">
+      <div>
         <Header />
         <Banner />
       </div>
