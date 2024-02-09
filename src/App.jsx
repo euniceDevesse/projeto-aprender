@@ -1,16 +1,15 @@
 import React from "react"
 import './App.css'
-import Header from './components/header/header'
-import DescriptionLeft from "./components/descriptionLeft/descriptionLeft"
+import Header from "./components/header/header"
+import Banner from "./components/banner/banner"
+
 
 function App() {
   return (
-    <div className="app">
-      <div className='header'>
+      <div className="container">
         <Header />
-        <DescriptionLeft />
+        <Banner />
       </div>
-    </div>
 
   )
 }

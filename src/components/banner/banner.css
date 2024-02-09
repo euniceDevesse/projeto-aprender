@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+}
+
+.description h1{
+    width: 771px;
+    height: 197px;
+    margin-top: 246px;
+    margin-left:158px;
+    font-size: 85px;
+    font-weight: 700;
+    line-height: 98px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
