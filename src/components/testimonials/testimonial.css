@@ -1,0 +1,45 @@
+.container-testimonial {
+    display: flex;
+    justify-content: center;
+    gap: 6rem;
+    margin-top: 100px;
+}
+
+
+.picture {
+    width: 100px;
+    height: 108px;
+    background-color: #282530;
+    border-radius: 5rem;
+    gap: 25px;
+
+}
+
+#name {
+    font-family: Ubuntu;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+}
+
+#experience {
+    font-family: Ubuntu;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    max-width: 477px;
+    height: 162px;
+}
+
+.testimonial{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+

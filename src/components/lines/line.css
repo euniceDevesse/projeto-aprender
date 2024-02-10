@@ -1,0 +1,17 @@
+.container-line{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.line{
+    width: 384px;
+    height: 15px;
+    background-color: #402C97;
+    margin-right: 50px;
+}
+
+.content-line h1{
+    color:#fff;
+    margin-top: 1rem;
+}

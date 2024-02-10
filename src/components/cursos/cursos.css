@@ -1,0 +1,31 @@
+.boxes{
+    width: 316px;
+    height: 254px;
+    border-radius: 3px;
+    background-color: #1F1C29;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 3px;
+   
+
+}
+
+.container-card{
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+    font-family: Ubuntu;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #fff;
+}
+
+.boxes img {
+    width: 30px;
+    margin: 0 auto;
+}

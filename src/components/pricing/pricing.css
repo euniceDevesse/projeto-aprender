@@ -1,0 +1,193 @@
+.container-pricing{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    
+
+}
+
+.card{
+    width: 324px;
+    height: 484px;
+    background-color: #1F1C29;
+    text-align: center;
+    border: 4px solid #1F1C29;
+    
+}
+
+.starter h1{
+    color: #8872E7;
+    font-family: Ubuntu;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.starter h2{
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #C1BDD4D1;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+.starter p{
+    font-family: Ubuntu;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    color: #C1BDD4D1;
+
+}
+
+#assinar-starter{
+    width: 186px;
+    height: 52px;
+    top: 668px;
+    left: 270px;
+    border-radius: 3px;
+    border: 1px;
+    background-color: #282530;
+    box-shadow: 0px 10px 4px 0px #402C97;
+    font-family: Ubuntu;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8872E7;  
+    margin-top: 80px;  
+    text-align: center;
+
+}
+
+/*second card*/
+.pro{
+    border: 4px solid #B9971E;
+}
+.pro h1{
+    color: #B9971E;
+    font-family: Ubuntu;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.pro h2{
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #C1BDD4D1;
+    margin-top: 25px;
+    margin-bottom: 35px;
+
+}
+
+.pro p{
+    font-family: Ubuntu;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-left: 25px;
+    margin-bottom: 10px;
+    color: #C1BDD4D1;
+
+}
+
+#assinar-pro{
+    width: 186px;
+    height: 52px;
+    top: 668px;
+    left: 270px;
+    border-radius: 3px;
+    border: 1px;
+    background-color:#8872E7;
+    box-shadow: 0px 10px 4px 0px #402C97;
+    font-family: Ubuntu;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #fff;  
+    margin-top: 50px;  
+}
+
+/*third card*/
+.business h1{
+    color: #8872E7;
+    font-family: Ubuntu;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.business h2{
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #C1BDD4D1;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+.business p{
+    font-family: Ubuntu;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-left: 25px;
+    color: #C1BDD4D1;
+    margin-top: 10px;
+
+}
+
+#assinar-business{
+    width: 186px;
+    height: 52px;
+    border-radius: 3px;
+    border: 1px;
+    box-shadow: 0px 10px 4px 0px #402C97;
+    font-family: Ubuntu;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:  #8872E7;
+    background-color: #282530;
+    margin-top: 50px;
+   
+}

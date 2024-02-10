@@ -1,6 +1,7 @@
 import './header.css'
+import _ from "../../assets/images/_.svg"
 export default function Header (){
     return (
-        <img src='images/_.svg' className='logo'/>
+        <img src={_} className='logo'/>
     )
 }
